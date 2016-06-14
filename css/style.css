@@ -152,6 +152,10 @@ input.error{
  background-color: #FFFC7F;
 }
 
+.warn{
+  color: #9F6000; background-color: #FEEFB3;
+}
+
 @media (min-width: 750px) {
 #main_menu li{
   max-width: 150px; display: inline-block;
